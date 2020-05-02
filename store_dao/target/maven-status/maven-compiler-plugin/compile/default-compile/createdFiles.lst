@@ -1,0 +1,4 @@
+com\jimmy\dao\IUGoodsDao.class
+com\jimmy\dao\IUUsersDao.class
+com\jimmy\dao\IUGoodsTypeDao.class
+com\jimmy\dao\IUCommentDao.class

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-beans-3.2.13.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/store_web/lib/spring-beans-3.2.13.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

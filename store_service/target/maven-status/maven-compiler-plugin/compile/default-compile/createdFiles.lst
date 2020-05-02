@@ -1,0 +1,6 @@
+com\jimmy\service\impl\UUsersServiceImpl.class
+com\jimmy\service\impl\UGoodsTypeServiceImpl.class
+com\jimmy\service\IUUsersService.class
+com\jimmy\service\IUGoodsTypeService.class
+com\jimmy\service\impl\UGoodsServiceImpl.class
+com\jimmy\service\IUGoodsService.class
